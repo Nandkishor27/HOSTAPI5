@@ -1,0 +1,33 @@
+[
+    {
+        "name" :   "Web development",
+        "feature" :  "adfsfsdfs fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf" , 
+        "image" :  "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name" :   "Communication",
+        "feature" :  "adfsfsdfs fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf" , 
+        "image" :  "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name" :   "Hard ware",
+        "feature" :  "adfsfsdfs fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf" , 
+        "image" :  "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name" :   "Software",
+        "feature" :  "adfsfsdfs fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf" , 
+        "image" :  "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name" :   "Full Stack",
+        "feature" :  "adfsfsdfs fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf" , 
+        "image" :  "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name" :   "Data Science",
+        "feature" :  "adfsfsdfs fdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf" , 
+        "image" :  "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+    
+]
